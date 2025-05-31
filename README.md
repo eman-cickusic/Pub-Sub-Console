@@ -2,6 +2,10 @@
 
 This repository documents a hands-on lab experience working with Google Cloud Pub/Sub messaging service. The lab demonstrates creating topics, subscriptions, publishing messages, and consuming them using the Google Cloud Console and Cloud Shell.
 
+## Video
+
+https://youtu.be/BhhnahbSm2g
+
 ## Overview
 
 Google Cloud Pub/Sub is a messaging service for exchanging event data among applications and services. This lab covers the fundamental concepts:
