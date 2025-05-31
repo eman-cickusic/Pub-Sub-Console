@@ -1,4 +1,4 @@
-# Google Cloud Pub/Sub Console Lab
+# Pub/Sub - Command Line
 
 This repository documents a hands-on lab experience working with Google Cloud Pub/Sub messaging service. The lab demonstrates creating topics, subscriptions, publishing messages, and consuming them using the Google Cloud Console and Cloud Shell.
 
